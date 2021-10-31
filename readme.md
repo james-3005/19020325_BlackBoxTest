@@ -1,3 +1,4 @@
+- "yarn install" hoặc "npm install" để tải dependency
 - "yarn test" hoặc "npm test" để chạy (cần có nodejs)
 - function.js: hàm unit test
 - DecisionTable.test.js: Test case sinh theo bảng quyết định
